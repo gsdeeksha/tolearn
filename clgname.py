@@ -1,0 +1,5 @@
+print(" SIT ")
+print(" SIT ")
+print(" SIT ")
+print(" SIT ")
+print(" SIT ")
